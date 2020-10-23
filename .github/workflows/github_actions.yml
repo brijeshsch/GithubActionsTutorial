@@ -19,6 +19,4 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - name: Install
-      run: echo Hello BMSIT!
-    - name: Test
-      run: echo Hello BMSIT!
+      run: echo Helloooo World!
